@@ -1,2 +1,2 @@
-# nosseklof.github.io
+# noahfolkesson.github.io
 Geovisualisation
